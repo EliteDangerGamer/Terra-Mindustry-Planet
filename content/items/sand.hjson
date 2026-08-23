@@ -2,9 +2,4 @@ lowPriority: true
 buildable: false
 alwaysUnlocked: false
 shownPlanets: [serpulo, erekir, terra]
-research: [
-  {
-    planet: terra
-    parent: iron
-  }
-]
+techNode: sand
