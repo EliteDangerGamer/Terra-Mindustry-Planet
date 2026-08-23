@@ -1,16 +1,8 @@
 lowPriority: true
 buildable: false
-alwaysUnlocked: true
+alwaysUnlocked: false
 shownPlanets: [serpulo, erekir, terra]
 research: [
-  {
-    planet: serpulo
-    parent: copper
-  }
-  {
-    planet: erekir
-    parent: beryllium
-  }
   {
     planet: terra
     parent: iron
