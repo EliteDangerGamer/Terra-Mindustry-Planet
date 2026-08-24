@@ -1,6 +1,6 @@
 name: terra
 parent: "sun"
-orbitRadius: 70       
+orbitRadius: 50       
 orbitTime: 12000    
 orbitOffset: 15            
 rotateTime: 1800
