@@ -1,8 +1,5 @@
 lowPriority: true
 buildable: false
 alwaysUnlocked: false
-shownPlanets: [serpulo, erekir, terra]
-techNode: [
-sand
-tsand
-]
+shownPlanets: [serpulo, erekir]
+techNode: sand
