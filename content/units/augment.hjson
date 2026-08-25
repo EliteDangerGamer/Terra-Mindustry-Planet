@@ -6,7 +6,7 @@ mineTier: 1
 name: agument
 localizedName: Augment
 speed: 3
-health: 300
+health: 500
 hitSize: 2
 buildSpeed: 1.25
 mineSpeed: 9.0
