@@ -1,0 +1,7 @@
+name: sand
+lowPriority: true
+buildable: false
+alwaysUnlocked: false
+shownPlanets: [terra]
+techNode: tsand
+parent: iron
