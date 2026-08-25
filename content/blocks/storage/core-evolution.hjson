@@ -14,8 +14,8 @@
     silicon/2000
     logic-board/2000
   ]
- research: [
-  core-origin
-  logic-board
+parent: [
+core-origin
+logic-board
 ]
 }
