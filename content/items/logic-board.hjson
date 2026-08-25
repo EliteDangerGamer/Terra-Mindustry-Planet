@@ -9,8 +9,5 @@
   flammability: 0.0
   charge: 0.4
   alwaysUnlocked: false
-  parent: [
-  silicon
-  terra
-  ]
+  research: refined-silicon
 }

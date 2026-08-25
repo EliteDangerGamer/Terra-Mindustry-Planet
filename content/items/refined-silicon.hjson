@@ -9,5 +9,5 @@
   flammability: 0.0
   charge: 0.0
   alwaysUnlocked: false
-  parent: refined-sand
+  research: refined-sand
 }
