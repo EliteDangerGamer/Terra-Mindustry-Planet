@@ -1,7 +1,7 @@
 {
-  name: "electronic-circuit"
-  localizedName: "Electronic Circuit"
-  description: "A small circuit, ready to be used in electronics."
+  name: logic-board
+  localizedName: "Logic board"
+  description: "A logic controller, allows units to be made."
   cost: 1.0
   color: "66FF00"
   radioactivity: 0.0
@@ -9,7 +9,7 @@
   flammability: 0.0
   charge: 0.4
   alwaysUnlocked: false
-  research: [
+  parent: [
   silicon
   terra
   ]

@@ -1,5 +1,6 @@
 lowPriority: true
+localizedName: Refined Sand
 buildable: false
 alwaysUnlocked: false
-shownPlanets: [terra]
 parent: iron
+color: E5D5BA
