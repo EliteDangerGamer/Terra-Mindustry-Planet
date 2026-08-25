@@ -15,7 +15,7 @@
     logic-board/2000
   ]
 research: [
-core-origin
-logic-board
+  core-origin
+  logic-board
 ]
 }
