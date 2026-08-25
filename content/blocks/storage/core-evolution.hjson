@@ -12,10 +12,10 @@
   requirements: [
     iron/4000
     silicon/2000
-    electronic-circuit/2000
+    logic-board/2000
   ]
  research: [
   core-origin
-  electronic-circuit
+  logic-board
 ]
 }
