@@ -1,0 +1,13 @@
+{
+  name: refined-silicon
+  localizedName: Refined Silicon
+  description: "Pure silicon, Can form semiconducting chips."
+  cost: 1.0
+  color: "F8F9FA"
+  radioactivity: 0.0
+  explosiveness: 0.0
+  flammability: 0.0
+  charge: 0.0
+  alwaysUnlocked: false
+  parent: refined-sand
+}
