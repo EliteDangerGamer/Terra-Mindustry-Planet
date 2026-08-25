@@ -10,7 +10,6 @@ sectorSize: 3
 radius: 1.1
 accessible: true
 startSector: 12
-sectors: 312
 mesh: [
 {
   type: NoiseMesh
