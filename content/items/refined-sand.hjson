@@ -1,5 +1,5 @@
 lowPriority: true
 buildable: false
 alwaysUnlocked: false
-shownPlanets: [serpulo, erekir]
-techNode: sand
+shownPlanets: [terra]
+parent: iron
