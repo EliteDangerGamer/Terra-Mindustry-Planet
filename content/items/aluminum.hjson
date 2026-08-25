@@ -1,13 +1,13 @@
 {
   name: "aluminum"
   localizedName: "Aluminum"
-  description: "An incredibly useful resource, light, strong, and conductive, perfect for electronics. Highly flammable when turned into powder."
+  description: "An incredibly useful resource, light, strong, and conductive, perfect for electronics."
   cost: 1.0
   color: "8E8E8E"
   hardness: 3
   radioactivity: 0.0
-  explosiveness: 0.25
-  flammability: 0.25
+  explosiveness: 0.0
+  flammability: 0.0
   charge: 0.0
   alwaysUnlocked: false
   research: iron
