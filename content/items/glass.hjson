@@ -9,8 +9,5 @@
   flammability: 0.0
   charge: 0.0
   alwaysUnlocked: false
-  research: [
-  sand
-  terra
-  ]
+  parent: refined-sand
 }
