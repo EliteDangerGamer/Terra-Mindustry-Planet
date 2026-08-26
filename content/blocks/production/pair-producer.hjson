@@ -7,23 +7,25 @@ consumesPower: true
 hasItems: true
 hasLiquids: true
 hasPower: true
-seperateItemCapacity: true
+separateItemCapacity: true
 solid: true
 breakable: true
 health: 1000
 baseExplosiveness: 1
 size: 3
+liquidCapacity: 100
 researchCostMultiplier: 0.01
 powerConsumption: 1000
+category: production
 
-consumesItems:[
+consumeItems:[
   uranium/1
   cnt/1
 ]
 
 outputLiquids:[
-  matter/10
-  antimatter/10
+  matter/0.1
+  antimatter/0.1
 ]
 liquidOutputDirections: [
 -1
