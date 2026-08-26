@@ -1,7 +1,7 @@
 {
   name: "cadmium"
   localizedName: "Cadmium"
-  description: "A common resource that is useful for batteries and ammo, Note: Toxic to Biological life. Not particularly strong, but dense, also an excelent neutron absorber."
+  description: "A common resource useful for batteries and ammunition. Toxic to biological life. Not particularly strong but dense; an excellent neutron absorber."
   cost: 1.0
   color: "6A2828"
   hardness: 1.2
