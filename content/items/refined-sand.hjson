@@ -1,6 +1,7 @@
 lowPriority: true
 localizedName: Refined Sand
 buildable: false
+hardness: 0
 alwaysUnlocked: false
 research: iron
 color: E5D5BA

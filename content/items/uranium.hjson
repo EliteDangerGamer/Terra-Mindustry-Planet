@@ -1,0 +1,14 @@
+{
+  name: "uranium"
+  localizedName: "Uranium"
+  description: "A radioactive ore, slightly flammable. It is also dense and fissile, making it viable as fuel for nuclear reactors."
+  cost: 1.5
+  color: "2CFA1F"
+  hardness: 5
+  radioactivity: 1.5
+  explosiveness: 0.0
+  flammability: 0.1
+  charge: 0.0
+  alwaysUnlocked: false
+  research: aluminum
+}
