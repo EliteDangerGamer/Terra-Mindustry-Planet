@@ -14,6 +14,12 @@ health: 1000
 baseExplosiveness: 1
 size: 3
 researchCostMultiplier: 0.01
+powerConsumption: 1000
+
+consumesItems:[
+  uranium/1
+  cnt/1
+]
 
 outputLiquids:[
   matter/10
@@ -22,5 +28,7 @@ outputLiquids:[
 liquidOutputDirections: [
 -1
 -1
+]
+requirements: [
 ]
 craftTime: 300
