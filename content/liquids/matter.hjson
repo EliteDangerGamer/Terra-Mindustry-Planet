@@ -4,7 +4,7 @@ lightColor: 22bbffff
 temperature: 1
 heatCapacity: 1
 viscosity: 0
-explosiveness: 10
+explosiveness: 5
 localizedName: Matter
 incinerable: false
 boilPoint: 10000
