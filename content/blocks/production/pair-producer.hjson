@@ -15,6 +15,7 @@ baseExplosiveness: 1
 size: 3
 researchCostMultiplier: 0.01
 powerConsumption: 1000
+category: production
 
 consumesItems:[
   uranium/1
