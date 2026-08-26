@@ -1,0 +1,12 @@
+{
+  localizedName: "Matter cube"
+  description: "Protons and neutrons arranged into a cue, highly radioactive."
+  cost: 1.0
+  color: "22bbff"
+  radioactivity: 5
+  explosiveness: 0.5
+  flammability: 0.0
+  charge: 0.0
+  alwaysUnlocked: false
+  research: antimatter
+}
