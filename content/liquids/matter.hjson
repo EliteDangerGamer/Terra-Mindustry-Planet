@@ -9,3 +9,4 @@ localizedName: Matter
 incinerable: false
 boilPoint: 10000
 gas: true
+coolant: false
