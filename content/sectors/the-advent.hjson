@@ -5,6 +5,6 @@ sector: 12
 research: core-origin
 difficulty: 1
 alwaysUnlocked: true
-parent: core-origin
+research: core-origin
 description: "One of the few sectors with minimal enemy presence, thus the only location where you can establish a foothold, but has very few resources.
 Gather Iron and Cadmium, and move on."
