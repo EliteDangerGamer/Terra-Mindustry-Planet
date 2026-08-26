@@ -23,7 +23,7 @@ consumes:{
     uranium/1
     cnt/1
   ]
-  power: 1000
+  power: 16.6666666667
 }
 
 outputLiquids:[
