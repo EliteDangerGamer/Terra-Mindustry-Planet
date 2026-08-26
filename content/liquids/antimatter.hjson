@@ -9,6 +9,6 @@ flammability: 5
 localizedName: Antimatter
 incinerable: false
 boilPoint: 10000
-gas: true
+gas: false
 coolant: false
 parent: iron
