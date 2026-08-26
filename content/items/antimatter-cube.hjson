@@ -1,6 +1,5 @@
 {
-  name: "antimatter"
-  localizedName: "Antimatter"
+  localizedName: "Antimatter Cube"
   description: "antimatter,  it is incredibly dangerous,  perfect!"
   cost: 1.0
   color: "301934"
