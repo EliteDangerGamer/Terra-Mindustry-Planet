@@ -10,4 +10,4 @@ incinerable: false
 boilPoint: 10000
 gas: false
 coolant: false
-parent: iron
+research: iron
