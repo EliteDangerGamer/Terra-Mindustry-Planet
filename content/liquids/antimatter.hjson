@@ -5,6 +5,7 @@ temperature: 0
 heatCapacity: 1
 viscosity: 0
 explosiveness: 25
+flammability: 5
 localizedName: Antimatter
 incinerable: false
 boilPoint: 10000
