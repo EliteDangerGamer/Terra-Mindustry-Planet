@@ -10,9 +10,10 @@
   alwaysUnlocked: false
   category: effect
   requirements: [
-    iron/4000
-    silicon/2000
+    iron/5000
+    refined-silicon/2500
     logic-board/2000
   ]
 research: core-origin
+researchCostMultiplier: 0.01
 }
