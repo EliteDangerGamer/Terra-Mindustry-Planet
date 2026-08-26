@@ -43,5 +43,5 @@ Hydrogen - get some from water
 Liquid Nitrogen - 10 nitrogen to 1 liquid nitrogen in a special building
 Pressurized water - Made from water in a variety of buildings
 Heavy Water - One made from 100 water, doesn’t need a lot
-Fusion Fuel - Heavy water + Normal water (used in fusion reactor which needs Fusion Fuel, Pressurized water, Liquid Nitrogen, and Thermite)
+Fusion Fuel - Heavy water + hydrogen(used in fusion reactor which needs Fusion Fuel, Pressurized water, Liquid Nitrogen, and Thermite)
 Matter - Any basic resource + lots of power
