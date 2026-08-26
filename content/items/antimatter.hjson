@@ -1,0 +1,13 @@
+{
+  name: "antimatter"
+  localizedName: "Antimatter"
+  description: "antimatter,  it is incredibly dangerous,  perfect!"
+  cost: 1.0
+  color: "301934"
+  radioactivity: 0.0
+  explosiveness: 50
+  flammability: 0.0
+  charge: 0.0
+  alwaysUnlocked: false
+  research: matter
+}
