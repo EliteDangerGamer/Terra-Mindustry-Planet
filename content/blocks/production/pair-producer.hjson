@@ -15,10 +15,11 @@ baseExplosiveness: 1
 size: 3
 liquidCapacity: 100
 researchCostMultiplier: 0.01
-powerConsumption: 1000
+consPower: 1000
 category: production
+research: core-origin
 
-consumeItems:[
+consItems:[
   uranium/1
   cnt/1
 ]
