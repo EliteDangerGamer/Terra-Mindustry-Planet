@@ -29,7 +29,7 @@ Carbon Nanotubes - Graphite + iron + liquid nitrogen
 Dynamite - biomass + silicon + Nitrogen
 Thermite - iron + aluminum
 Matter Cubes - 100 Liquid matter
-Antimatter - Matter + superconductor + carbon nanotubes
+Antimatter - 100 liquid antimatter
 Strange Matter - Matter + superconductor + tons of power
 Exotic matter - Strange Matter + thermite + TONS of power
 
@@ -44,4 +44,5 @@ Liquid Nitrogen - 10 nitrogen to 1 liquid nitrogen in a special building
 Pressurized water - Made from water in a variety of buildings
 Heavy Water - One made from 100 water, doesn’t need a lot
 Fusion Fuel - Heavy water + hydrogen(used in fusion reactor which needs Fusion Fuel, Pressurized water, Liquid Nitrogen, and Thermite)
-Matter - Any basic resource + lots of power
+Matter - Any basic resource + lots of power, Power + carbon nanotube + uranium
+Antimatter - Power + carbon nanotube + uranium
