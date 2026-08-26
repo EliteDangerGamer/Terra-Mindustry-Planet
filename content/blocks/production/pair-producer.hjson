@@ -18,11 +18,13 @@ researchCostMultiplier: 0.01
 category: production
 research: core-origin
 
-consumes:[
-  uranium/1
-  cnt/1
-  power/1000
-]
+consumes:{
+  items:[
+    uranium/1
+    cnt/1
+  ]
+  power: 1000
+}
 
 outputLiquids:[
   matter/0.1
