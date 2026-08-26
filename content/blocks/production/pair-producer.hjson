@@ -30,5 +30,8 @@ liquidOutputDirections: [
 -1
 ]
 requirements: [
+cnt/100
+steel/500
+refined-silicon/500
 ]
 craftTime: 300
