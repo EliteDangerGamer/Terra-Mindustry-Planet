@@ -1,5 +1,5 @@
 {
-  localizedName: "Antimatter Container"
+  localizedName: "Antimatter container"
   description: "Antimatter packed into a containment device, carries a tiny amount of antimatter, but still extremely violatile."
   cost: 1.0
   color: "301934"
