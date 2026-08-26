@@ -15,5 +15,5 @@
     logic-board/2000
   ]
 research: core-origin
-researchCostMultiplier: 0.01
+researchCostMultiplier: 0.06
 }
