@@ -1,0 +1,13 @@
+type: liquid
+color: 301934cc
+lightColor: 301934ff
+temperature: 0
+heatCapacity: 1
+viscosity: 0
+explosiveness: 25
+localizedName: Antimatter
+incinerable: false
+boilPoint: 10000
+gas: true
+coolant: false
+parent: iron
