@@ -1,10 +1,10 @@
 {
-  localizedName: "Antimatter Cube"
-  description: "antimatter,  it is incredibly dangerous,  perfect!"
+  localizedName: "Antimatter Container"
+  description: "Antimatter packed into a containment device, carries a tiny amount of antimatter, but still extremely violatile."
   cost: 1.0
   color: "301934"
   radioactivity: 0.0
-  explosiveness: 50
+  explosiveness: 2.5
   flammability: 0.0
   charge: 0.0
   alwaysUnlocked: false
