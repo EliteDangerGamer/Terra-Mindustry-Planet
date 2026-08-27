@@ -1,0 +1,14 @@
+{
+  name: "tcoal"
+  localizedName: "Coal"
+  description: "Fossilized biological matter, more useful than alive biological matter."
+  cost: 1
+  color: "353434"
+  hardness: 1.1
+  radioactivity: 0.0
+  explosiveness: 0.0
+  flammability: 0.6
+  charge: 0.0
+  alwaysUnlocked: false
+  research: iron
+}
