@@ -10,9 +10,9 @@ hasPower: true
 separateItemCapacity: true
 solid: true
 breakable: true
-health: 3000
+health: 5000
 baseExplosiveness: 1
-size: 3
+size: 5
 liquidCapacity: 100
 researchCostMultiplier: 0.01
 category: crafting
