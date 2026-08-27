@@ -1,0 +1,38 @@
+type: genericCrafter
+localizedName: Pair Producer
+description: Uses gamma rays from uranium, and lots of power to make matter and antimatter, uses carbon nanotubes to store the volatile materials.
+itemCapacity: 10
+acceptsItems: true
+consumesPower: true
+hasItems: true
+hasLiquids: false
+hasPower: false
+separateItemCapacity: true
+solid: true
+breakable: true
+health: 1000
+baseExplosiveness: 1
+size: 2
+researchCostMultiplier: 0.1
+category: crafting
+research: core-origin
+
+consumes:{
+  items:[
+    iron/10
+    coal/5
+  ]
+}
+
+outputItems:[
+  steel/5
+]
+liquidOutputDirections: [
+-1
+-1
+]
+requirements: [
+iron/100
+cadmium/50
+]
+craftTime: 300
