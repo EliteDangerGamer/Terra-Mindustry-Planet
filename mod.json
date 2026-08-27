@@ -2,7 +2,8 @@
   "name": "terra-planetmod",
   "displayName": "Terra",
   "author": "EliteDangerGamer, LP0818, CoLuSo2013",
-  "description": "Alpha, Still a WIP. Adds a planet called Terra, which has abundant resources and life.",
+  "description": "Alpha, Still a WIP. Adds a planet called Terra, which has abundant resources and life. Requires MultiCrafter.",
   "version": "0.2.2a",
   "minGameVersion": "159"
+  "dependencies": ["multicrafter"]
 }
