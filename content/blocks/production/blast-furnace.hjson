@@ -1,7 +1,7 @@
 type: genericCrafter
 localizedName: Pair Producer
 description: Uses gamma rays from uranium, and lots of power to make matter and antimatter, uses carbon nanotubes to store the volatile materials.
-itemCapacity: 10
+itemCapacity: 20
 acceptsItems: true
 consumesPower: true
 hasItems: true
