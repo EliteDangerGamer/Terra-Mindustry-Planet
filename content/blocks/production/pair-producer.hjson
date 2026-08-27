@@ -20,7 +20,7 @@ research: core-origin
 
 consumes:{
   items:[
-    uranium/1
+    uranium/3
     cnt/1
   ]
   power: 16.7
