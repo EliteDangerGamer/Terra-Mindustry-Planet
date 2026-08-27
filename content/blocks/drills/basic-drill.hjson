@@ -1,7 +1,7 @@
 type: Drill
 
-name: iron-drill
-localizedName: "Iron Drill"
+name: basic-drill
+localizedName: "Basic Drill"
 size: 2
 health: 700
 hasItems: true
