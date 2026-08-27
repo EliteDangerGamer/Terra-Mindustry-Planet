@@ -10,7 +10,7 @@ hasPower: true
 separateItemCapacity: true
 solid: true
 breakable: true
-health: 1000
+health: 3000
 baseExplosiveness: 1
 size: 3
 liquidCapacity: 100
