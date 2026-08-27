@@ -10,4 +10,4 @@ incinerable: false
 boilPoint: 10000
 gas: false
 coolant: false
-research: iron
+research: pair-producer
