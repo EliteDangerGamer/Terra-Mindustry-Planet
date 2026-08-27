@@ -36,7 +36,7 @@ weapons: [
       lifetime:20
       homingPower: 0.12
       homingRange: 60
-      buildingDamageMultiplier: 0.2
+      buildingDamageMultiplier: 0.01
         }
   }
 ]
