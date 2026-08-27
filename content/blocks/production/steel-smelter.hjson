@@ -1,6 +1,6 @@
 type: genericCrafter
-localizedName: Pair Producer
-description: Uses gamma rays from uranium, and lots of power to make matter and antimatter, uses carbon nanotubes to store the volatile materials.
+localizedName: Steel Smelter
+description: Refines iron using the heat and carbon of coal, to make steel.
 itemCapacity: 20
 acceptsItems: true
 consumesPower: true
@@ -11,7 +11,7 @@ separateItemCapacity: true
 solid: true
 breakable: true
 health: 1000
-baseExplosiveness: 1
+baseExplosiveness: 0
 size: 2
 researchCostMultiplier: 0.1
 category: crafting
@@ -20,7 +20,7 @@ research: core-origin
 consumes:{
   items:[
     iron/10
-    coal/5
+    tcoal/5
   ]
 }
 
