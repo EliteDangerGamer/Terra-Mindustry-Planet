@@ -1,0 +1,8 @@
+{
+  type: "OreBlock"
+  name: "tcoalore"
+  localizedName: "Terra Coal"
+  itemDrop: "tcoal"
+  variants: 1
+  mapColor: "353434"
+}
