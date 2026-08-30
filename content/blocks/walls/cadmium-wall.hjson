@@ -1,4 +1,4 @@
-type: Turret
+type: powerTurret
 localizedName: Cadmium Wall
 health: 256
 size: 1
@@ -6,11 +6,16 @@ description: A small wall made from cadmium, poisons biological life.
 maxAmmo: 0
 playerControllable: false
 targetBlocks: false
+ammoPerShot: 0
+alwaysShooting: true
 shootSound: empty
+consumes: {
+  power: 0
+}
 shootType: {
   type: BasicBulletType
-  speed: 1
-  lifetime: 1
+  speed: 0
+  lifetime: 0.25
   splashDamage: 1
   splashDamageRadius: 5
   splashDamagePierce: true
@@ -29,3 +34,7 @@ requirements: [
 ]
 researchCostMultiplier: 0.5
 rotate: true
+drawer: {
+  type: DrawTurret
+  basePrefix: empty
+}
