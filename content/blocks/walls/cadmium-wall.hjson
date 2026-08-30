@@ -4,7 +4,6 @@ health: 256
 size: 1
 description: A small wall made from cadmium, poisons biological life.
 maxAmmo: 0
-shootSound: null
 playerControllable: false
 targetBlocks: false
 shootSound: empty
@@ -15,7 +14,7 @@ shootType: {
   splashDamage: 1
   splashDamageRadius: 5
   splashDamagePierce: true
-  dmaage: 0
+  damage: 0
   status: poison
   statusDuration:90
   width: 0.00001
@@ -26,7 +25,7 @@ shootType: {
 category: defense
 research: iron-wall
 requirements: [
-  cadmium: 8
+  cadmium/8
 ]
 researchCostMultiplier: 0.5
 rotate: false
