@@ -9,6 +9,13 @@ playerControllable: false
 targetBlocks: false
 ammoPerShot: 0
 shootSound: empty
+smokeEffect: 0
+rotateSpeed: 0
+shootEffect: {
+  type: ParticleEffect
+  particles: 0
+  lifetime: 0
+}
 range: 32
 consumes: {
   power: 0.0
