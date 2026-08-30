@@ -2,7 +2,7 @@ type: PowerTurret
 localizedName: Cadmium Wall
 health: 256
 size: 1
-description: A small wall made from cadmium, poisons biological life. Note: needs to be connected to power.
+description: A small wall made from cadmium, poisons biological life. Note: needs to be connected to power (doesn't consume any).
 maxAmmo: 0
 conductivePower: true
 playerControllable: false
@@ -11,7 +11,7 @@ ammoPerShot: 0
 alwaysShooting: true
 shootSound: empty
 consumes: {
-  power: -0.00000001
+  power: 0.0
 }
 shootType: {
   type: BasicBulletType
