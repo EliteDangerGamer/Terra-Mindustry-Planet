@@ -7,4 +7,5 @@ requirements: [
 iron/8
 ]
 research: core-origin
+category: defense
 researchCostMultiplier:0.05
