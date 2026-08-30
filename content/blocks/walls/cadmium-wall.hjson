@@ -8,8 +8,8 @@ conductivePower: true
 playerControllable: false
 targetBlocks: false
 ammoPerShot: 0
-alwaysShooting: true
 shootSound: empty
+range: 32
 consumes: {
   power: 0.0
 }
@@ -18,15 +18,13 @@ shootType: {
   speed: 0
   lifetime: 1
   splashDamage: 1
-  splashDamageRadius: 96
+  splashDamageRadius: 32
   splashDamagePierce: true
   damage: 0
   status: poison
   statusDuration:90
   width: 0.00001
   length: 0.00001
-  frontColor: 00000000
-  backColor: 00000000
 }
 category: defense
 research: iron-wall
@@ -34,7 +32,8 @@ requirements: [
   cadmium/8
 ]
 researchCostMultiplier: 0.5
-rotate: true
+rotate: false
+shootCone: 360
 drawer: {
   type: DrawTurret
   basePrefix: empty
