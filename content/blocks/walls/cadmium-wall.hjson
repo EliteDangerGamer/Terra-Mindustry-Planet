@@ -1,4 +1,4 @@
-type: powerTurret
+type: PowerTurret
 localizedName: Cadmium Wall
 health: 256
 size: 1
