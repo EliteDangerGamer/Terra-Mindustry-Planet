@@ -1,0 +1,11 @@
+type: wall
+localizedName: Iron Wall
+description: A wall made from iron, protects structures from incoming damage.
+size: 1
+health: 400
+requirements: [
+iron/8
+]
+research: core-origin
+category: defense
+researchCostMultiplier:0.05

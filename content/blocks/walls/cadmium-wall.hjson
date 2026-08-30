@@ -1,0 +1,31 @@
+type: Turret
+localizedName: Cadmium Wall
+health: 256
+size: 1
+description: A small wall made from cadmium, poisons biological life.
+maxAmmo: 0
+shootSound: null
+playerControllable: false
+targetBlocks: false
+shootType: {
+  type: BasicBulletType
+  speed: 0
+  lifetime: 1
+  splashDamage: 1
+  splashDamageRadius: 5
+  splashDamagePierce: true
+  dmaage: 0
+  status: poison
+  statusDuration:90
+  width: 0.00001
+  length: 0.00001
+  frontColor: 00000000
+  backColor: 00000000
+}
+category: defense
+research: iron-wall
+requirements: [
+  cadmium: 8
+]
+researchCostMultiplier: 0.5
+rotate: false

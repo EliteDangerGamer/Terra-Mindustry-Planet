@@ -13,6 +13,9 @@ mineSpeed: 9.0
 playerControllable: true
 logicControllable: false
 rotateSpeed: 15
+immunities: [
+poison
+]
 abilities: [
   {
     type: "RepairFieldAbility"
