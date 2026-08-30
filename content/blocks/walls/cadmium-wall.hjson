@@ -9,7 +9,7 @@ playerControllable: false
 targetBlocks: false
 ammoPerShot: 0
 shootSound: empty
-smokeEffect: 0
+smokeEffect: none
 rotateSpeed: 0
 shootEffect: {
   type: ParticleEffect
