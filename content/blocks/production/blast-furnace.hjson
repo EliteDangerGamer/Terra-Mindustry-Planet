@@ -22,7 +22,7 @@ consumes:{
     iron/15
     tcoal/10
   ]
-  power: 5
+  power: 1.6667
 }
 
 outputItems:[
