@@ -1,0 +1,40 @@
+type: genericCrafter
+localizedName: Blast Furnace
+description: Refines iron and coal into steel. More efficient than a steel smelter, but needs power.
+itemCapacity: 50
+acceptsItems: true
+consumesPower: true
+hasItems: true
+hasLiquids: false
+hasPower: false
+separateItemCapacity: true
+solid: true
+breakable: true
+health: 2000
+baseExplosiveness: 0
+size: 3
+researchCostMultiplier: 0.1
+category: crafting
+research: steel-smelter
+
+consumes:{
+  items:[
+    iron/15
+    tcoal/10
+  ]
+  power: 5
+}
+
+outputItems:[
+  steel/10
+]
+liquidOutputDirections: [
+-1
+-1
+]
+requirements: [
+iron/200
+cadmium/100
+steel/50
+]
+craftTime: 60
