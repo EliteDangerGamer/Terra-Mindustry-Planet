@@ -1,7 +1,7 @@
-type: Basic Overflow Gate
+type: OverflowGate
 name: basic-overflow-gate
 localizedName: Basic Overflow Gate
-description: a simple gate, which deposits items to the sides only when the front is full
+description: a simple gate, which deposits items to the sides only when the front is full.
 category: distribution
 research: core-origin
 speed: 0.25
