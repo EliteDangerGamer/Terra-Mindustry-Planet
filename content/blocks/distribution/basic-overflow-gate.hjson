@@ -1,0 +1,15 @@
+type: Basic Overflow Gate
+name: basic-overflow-gate
+localizedName: Basic Overflow Gate
+description: a simple gate, which deposits items to the sides only when the front is full
+category: distribution
+research: core-origin
+speed: 0.25
+displayedSpeed: 15.0
+itemCapacity: 3
+health: 50
+requirements: [
+  iron/5
+  cadmium/3
+]
+researchCostMultiplier: 0.1
