@@ -1,0 +1,16 @@
+type: OverflowGate
+name: basic-underflow-gate
+localizedName: Basic Underflow Gate
+description: a simple gate, which deposits items to the front, only when the sides are full.
+category: distribution
+research: core-origin
+speed: 0.25
+displayedSpeed: 15.0
+itemCapacity: 3
+health: 50
+requirements: [
+  iron/5
+  cadmium/3
+]
+researchCostMultiplier: 0.1
+invert: true
